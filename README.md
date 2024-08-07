@@ -7,9 +7,9 @@ Project Strcuture :
 
 Commands Used : 
 
-$ sudo docker build -t  booting-web .
+$ sudo docker build -t  spring-boot-products .
 
-$ sudo docker run -p 8080:8080 -d booting-web 
+$ sudo docker run -p 8080:8080 -d spring-boot-products 
 
 $ docker ps 
 
